@@ -1,0 +1,16 @@
+body{
+    background-color: #808080;
+}
+
+h2{
+    font-family: verdana;
+    color: #cc3300;
+    text-shadow: 1px 1px #000000;
+
+}
+
+h1{
+    font-family: verdana;
+    color: #ff9900;
+    text-shadow: 2px 2px #000000;
+}
